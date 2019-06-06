@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
-
+        //write the code here
         INode test1 = new Leaf(2);
         INode test2 = new Leaf(-1);
         AbsolutValue test3 = new AbsolutValue(test2);
